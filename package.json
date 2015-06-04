@@ -1,6 +1,6 @@
 {
   "name": "mustache-cache",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compile mustache templates into a requirable, callable function",
   "bin": "./cli.js",
   "main": "./cli.js",
