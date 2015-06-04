@@ -1,0 +1,24 @@
+{
+  "name": "mustache-cache",
+  "version": "0.0.0",
+  "description": "Compile mustache templates into a requirable, callable function",
+  "bin": "./cli.js",
+  "main": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesstelford/mustache-cache"
+  },
+  "author": "Jess Telford <hi@jes.st> (http://jes.st)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesstelford/mustache-cache/issues"
+  },
+  "homepage": "https://github.com/jesstelford/mustache-cache",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "mustache": "^2.0.0"
+  }
+}
